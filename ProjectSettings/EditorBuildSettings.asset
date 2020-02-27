@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/Scenes/ImageTracking_CloudRecognition.unity
     guid: 76895b1b9ab37534b91552832fefed57
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b2574124e9d4d7a42a83396835ba7751,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 10d071335ad35b04ebac32e7d512458f,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 943723ed2b3b9aa46b5d1fa5376e9ea7,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 90b2ed3b30acb0f49a8ce20f60c8ece5,
+      type: 2}
+    com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 6a735440dd32df849b8565638128955f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce6d6bdb279359243a193e2fd6a3f821,
+      type: 2}
